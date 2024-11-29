@@ -1,0 +1,488 @@
+#EXTM3U
+
+
+	<!-- Основные каналы-->
+
+
+#EXTINF:-1 tvg-logo="" group-title="",Первый канал
+http://cdntv.online/low/76p3kfcaiy/29.m3u8
+	
+#EXTINF:-1 tvg-id="Rossiya1HD.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Россия 1 HD
+http://cdntv.online/low/76p3kfcaiy/33.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",НТВ
+https://cdntv.online/low/76p3kfcaiy/360.m3u8
+
+#EXTINF:-1 tvg-id="Rossiya24.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Россия 24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5kanal.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Пятый канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RossiyaKultura.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Россия Культура
+http://cdntv.online/low/76p3kfcaiy/6.m3u8
+
+#EXTINF:-1 tvg-id="RenTVHD.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Рен ТВ HD
+http://cdntv.online/low/76p3kfcaiy/388.m3u8
+
+#EXTINF:-1 tvg-id="STSHD.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",СТС HD
+http://cdntv.online/low/76p3kfcaiy/1061.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ТНТ HD
+http://cdntv.online/low/76p3kfcaiy/390.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ТНТ4
+http://cdntv.online/low/76p3kfcaiy/28.m3u8
+
+#EXTINF:-1 tvg-id="DomashniyHD.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Домашний HD
+http://cdntv.online/low/76p3kfcaiy/14.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ТВ3
+http://cdntv.online/low/76p3kfcaiy/1036.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ТВЦ
+http://cdntv.online/low/76p3kfcaiy/10.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Пятница HD
+http://cdntv.online/low/76p3kfcaiy/35.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Суббота!
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yu.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Ю
+http://cdntv.online/low/76p3kfcaiy/185.m3u8
+
+#EXTINF:-1 tvg-id="Che.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Че!
+http://cdntv.online/low/76p3kfcaiy/21.m3u8
+
+#EXTINF:-1 group-title="",ПЕРЕЦ
+http://cdntv.online/low/76p3kfcaiy/1097.m3u8
+
+#EXTINF:-1 tvg-id="STSLove.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",СТС Love
+http://cdntv.online/low/76p3kfcaiy/178.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Звезда
+http://cdntv.online/low/76p3kfcaiy/1115.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="",2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Мир
+http://cdntv.online/low/76p3kfcaiy/1352.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",МузТВ
+http://cdntv.online/low/76p3kfcaiy/20.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Известия
+http://cdntv.online/low/76p3kfcaiy/361.m3u8
+
+
+
+	<!-- Кино каналы-->
+	
+	
+#EXTINF:-1 tvg-logo="" group-title="Кино",Fox
+http://cdntv.online/low/76p3kfcaiy/92.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Fox HD
+http://cdntv.online/low/76p3kfcaiy/93.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Fox life
+http://cdntv.online/low/76p3kfcaiy/95.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Comedy Central
+http://cdntv.online/low/76p3kfcaiy/406.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Viju TV1000 HD
+http://cdntv.online/low/76p3kfcaiy/410.m3u8
+
+#EXTINF:-1 tvg-id="TV1000ActionHD.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",Viju TV1000 Action HD
+http://cdntv.online/low/76p3kfcaiy/409.m3u8
+
+#EXTINF:-1 tvg-id="TV1000Kino.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",Viju TV1000 Русское HD
+http://cdntv.online/low/76p3kfcaiy/411.m3u8
+
+#EXTINF:-1 tvg-id="VIPPremiere.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",Viju+ Premiere HD
+http://cdntv.online/low/76p3kfcaiy/106.m3u8
+
+#EXTINF:-1 tvg-id="VIPMegahit.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",Viju+ Megahit HD
+http://cdntv.online/low/76p3kfcaiy/105.m3u8
+
+#EXTINF:-1 tvg-id="VIPComedy.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",Viju+ Comedy HD
+http://cdntv.online/low/76p3kfcaiy/104.m3u8
+
+#EXTINF:-1 tvg-id="VIPSerial.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",Viju+ Serial HD
+http://cdntv.online/low/76p3kfcaiy/107.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Amedia 1 HD
+http://cdntv.online/low/76p3kfcaiy/401.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Amedia 2 HD
+http://cdntv.online/low/76p3kfcaiy/402.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Amedia Premium HD
+http://cdntv.online/low/76p3kfcaiy/500.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Amedia HIT
+http://cdntv.online/low/76p3kfcaiy/499.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/hGgj76W4/image.png",START Air
+
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/Y9DqZS4j/1.png",START World
+
+
+#EXTINF:-1 group-title="Кино",Star Cinema
+http://cdntv.online/low/76p3kfcaiy/507.m3u8
+
+#EXTINF:-1 group-title="Кино",Star Family HD
+http://cdntv.online/low/76p3kfcaiy/508.m3u8
+
+
+#EXTINF:-1 group-title="Кино",FAN
+http://cdntv.online/low/76p3kfcaiy/404.m3u8
+
+
+#EXTINF:-1 group-title="Кино",.Sci-Fi
+
+
+#EXTINF:-1 tvg-id="Black.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",.Black
+http://cdntv.online/low/76p3kfcaiy/506.m3u8
+
+#EXTINF:-1 tvg-id="Red.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="Кино",.Red
+http://cdntv.online/low/76p3kfcaiy/97.m3u8
+
+#EXTINF:-1 group-title="Кино",Horror TV
+https://cdntv.online/low/76p3kfcaiy/1492.m3u8
+
+#EXTINF:-1 group-title="Кино",BackusTV Original
+http://stream.backustv.ru/live/btv/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Backus TV Dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/131.png" group-title="Кино",НСТ
+http://lb.homeiptv.org/lb0/NST/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/131.png" group-title="Кино",НСТ
+http://cdntv.online/low/76p3kfcaiy/131.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/417.png" group-title="Кино",Страшное HD
+http://lb.homeiptv.org/lb0/strashnoehd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/417.png" group-title="Кино",Страшное HD
+http://158.101.214.187:8080/channel/42c15d29/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/905.png" group-title="Кино",Шокирующее HD
+http://cdntv.online/low/76p3kfcaiy/905.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Trash TV
+http://cdntv.online/low/76p3kfcaiy/1098.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОУЖАС
+https://cdntv.online/low/76p3kfcaiy/509.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОПРЕМЬЕРА
+http://cdntv.online/low/76p3kfcaiy/121.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОХИТ
+http://cdntv.online/low/76p3kfcaiy/118.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОМИКС
+https://cdntv.online/low/76p3kfcaiy/120.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОСЕМЬЯ
+https://cdntv.online/low/76p3kfcaiy/123.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОСЕМЬЯ HD
+https://cdntv.online/low/76p3kfcaiy/414.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОСЕРИЯ
+https://cdntv.online/low/76p3kfcaiy/1490.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОСВИДАНИЕ
+https://cdntv.online/low/76p3kfcaiy/122.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КИНОКОМЕДИЯ
+https://cdntv.online/low/76p3kfcaiy/119.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",МУЖСКОЕ КИНО
+https://cdntv.online/low/76p3kfcaiy/128.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",РОДНОЕ КИНО
+https://cdntv.online/low/76p3kfcaiy/514.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",НАШЕ НОВОЕ КИНО
+https://cdntv.online/low/76p3kfcaiy/132.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Ultra HD Cinema
+https://cdntv.online/low/76p3kfcaiy/434.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Ultra HD cinema
+https://cdntv.online/low/76p3kfcaiy/387.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",FilmBox Russia
+https://cdntv.online/low/76p3kfcaiy/90.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Filmbox Arthouse
+https://cdntv.online/low/76p3kfcaiy/91.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Cinema
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Еврокино
+https://cdntv.online/low/76p3kfcaiy/113.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",КиноТВ
+https://cdntv.online/low/76p3kfcaiy/117.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Камеди HD
+https://cdntv.online/low/76p3kfcaiy/1100.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Хит HD
+https://cdntv.online/low/76p3kfcaiy/1025.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Блокбастер HD
+https://cdntv.online/low/76p3kfcaiy/1031.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Наше крутое HD
+https://cdntv.online/low/76p3kfcaiy/900.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Премиальное HD
+https://cdntv.online/low/76p3kfcaiy/901.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Остросюжетное HD
+https://cdntv.online/low/76p3kfcaiy/902.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Душевное HD
+https://cdntv.online/low/76p3kfcaiy/903.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Романтичное HD
+https://cdntv.online/low/76p3kfcaiy/1028.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Кинопоказ HD
+https://cdntv.online/low/76p3kfcaiy/904.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Комедийное HD
+https://cdntv.online/low/76p3kfcaiy/906.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино", Дом кино
+http://45.144.31.195:8031/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино", Дом кино Премиум HD
+http://46.151.151.245:10007/play/a009
+
+#EXTINF:-1 group-title="Кино",РУССКИЙ ИЛЛЮЗИОН
+https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",ИЛЛЮЗИОН+
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Кинеко
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Дорама HD
+http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Индийское кино
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Индия
+https://cdn-cache01.voka.tv:443/live/1447.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Индия
+https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Bollywood HD
+https://moobl.ru/iptv/Bollywood_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Hollywood HD
+http://%64%6D%693%79-%74%76.ru/hls/CH_HOLLYWOODHD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",Hollywood HD
+https://nl01.spr24.net/127/index.m3u8?token=6NKtDLCbKfZKiQ
+
+
+
+	<!-- Познавательные-->
+
+
+#EXTINF:-1 group-title="Познавательные",Viju Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Viju History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Viju Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.postimg.cc/cLTgxmx9/111.png",TERRA
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Discovery
+https://cdn-cache01.voka.tv:443/live/5115.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Discovery Science
+http://81.177.136.209:8004/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",National Geographic HD
+http://45.144.31.195:8002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Nat Geo Wild HD
+http://45.144.31.195:8005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Animal Planet
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",В мире животных HD 
+http://31.211.77.158:8000/play/a175/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Nano HD
+http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Оружие
+http://45.144.31.195:8018/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные",Арсенал HD
+http://45.143.108.104:80/arsenal/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные", Авто Плюс
+https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные", Авто 24
+http://138.201.67.145:8081/Avto24/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные", Драйв
+http://109.197.192.121:8080/drive/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Познавательные", Моторспорт ТВ
+http://109.200.135.130:8080/motorsport/index.m3u8
+
+
+	<!-- Спорт-->
+
+
+#EXTINF:-1 group-title="Спорт",Viju+ Sport HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
+
+#EXTINF:-1 group-title="Спорт",Матч! HD
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2326.png" group-title="Спорт",MMA-TV.com
+http://tv.tuva.ru/m1global/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2497.png" group-title="Спорт",Russian Extreme HD
+http://91.221.201.2:7013/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2285.png" group-title="Спорт",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спорт",Матч! СТРАНА
+http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Спорт",Матч! ФУТБОЛ 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2003.png" group-title="Спорт",Матч! АРЕНА HD
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2043.png" group-title="Спорт",Матч! ПЛАНЕТА
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://45.144.31.195:8016/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://45.144.31.195:8017/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",KHL Prime
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+
+#EXTINF:-1 group-title="Спорт",КХЛ
+https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+
+#EXTINF:-1 group-title="Спорт",Старт
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+
+#EXTINF:-1 group-title="Спорт",Старт Триумф
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+
+
+	<!-- Музыкальные-->
+	
+#EXTINF:-1 group-title="Музыкальные",BACKUS TV Music
+https://stream.backustv.ru/live/vipbtv3/index.m3u8	
+
+#EXTINF:-1 group-title="Музыкальные",Европа Плюс ТВ
+http://194.114.144.244:8001/play/a01f
+
+#EXTINF:-1 group-title="Музыкальные",MTV 00s
+http://194.114.144.244:8001/play/vh1
+
+#EXTINF:-1 group-title="Музыкальные",MTV 80s
+http://194.114.144.244:8001/play/mtv80
+
+#EXTINF:-1 group-title="Музыкальные",MTV 90s
+http://194.114.144.244:8001/play/mtv90
+
+#EXTINF:-1 group-title="Музыкальные",MTV Europe
+http://194.114.144.244:8003/play/mtveurope
+
+#EXTINF:-1 group-title="Музыкальные",MTV Hits
+http://194.114.144.244:8003/play/mtvhits
+
+#EXTINF:-1 group-title="Музыкальные",MTV Live HD
+http://194.114.144.244:8001/play/MTVLiveHD
+
+#EXTINF:-1 group-title="Музыкальные",MTV Live HD1
+http://static.kremlin.ru/media/events/video/ru/video_high/AgfF4vyLDHfM49v2bn7JYYN7Wu980IAX.mp4
+
+#EXTINF:-1 group-title="Музыкальные",MTV Live HD2
+http://static.kremlin.ru/media/events/video/ru/video_high/pDEViZaGGzZFefEiOcqT1anzJtjzJXAj.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Кино",
